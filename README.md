@@ -1,7 +1,12 @@
 # React Image Gallery
 
-Welcome to my new Next.js image gallery :)
+Welcome to my new Next.js/React.js image gallery :)
 Please feel free to use it as inspiration for your personal projects
+
+## CI/CD - Vercel Integration
+
+This project is setup to deploy code from the `main` branch, to Vercel via GitHub Actions.
+The config file can be found in the `.github/workflows` directory.
 
 ## Switch out the stock images for whichever ones you would like to use
 
