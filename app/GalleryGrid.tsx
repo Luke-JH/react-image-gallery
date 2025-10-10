@@ -10,7 +10,6 @@ type ImageData = {
 
 export default function GalleryGrid() {
     const [imagesState, setImagesState] = useState<ImageData[]>([
-        { imageLocation: "/IMG_0050.JPEG", altText: "A winter tree" },
         { imageLocation: "/IMG_0150.JPEG", altText: "A snowy wall" },
         { imageLocation: "/IMG_1460.JPEG", altText: "A sandy reservoir" },
         { imageLocation: "/IMG_1474.JPEG", altText: "A rocky hillside" },
